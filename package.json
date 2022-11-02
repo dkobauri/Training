@@ -1,0 +1,26 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "Automated Testing - JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkobauri/Training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkobauri/Training/issues"
+  },
+  "homepage": "https://github.com/dkobauri/Training#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0",
+    "globally": "^0.0.0",
+    "package": "^1.0.1",
+    "with": "^7.0.2"
+  }
+}
