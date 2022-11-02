@@ -1,0 +1,2 @@
+# Training
+Automated Testing - JavaScript
